@@ -1,0 +1,30 @@
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\bin\Debug\myproject.exe.config
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\bin\Debug\myproject.exe
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\bin\Debug\myproject.pdb
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\obj\Debug\myproject.csproj.AssemblyReference.cache
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\obj\Debug\myproject.Form1.resources
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\obj\Debug\myproject.Properties.Resources.resources
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\obj\Debug\myproject.csproj.GenerateResource.cache
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\obj\Debug\myproject.exe
+C:\Users\raad2\OneDrive\Desktop\C# projects\New folder\myproject\myproject\obj\Debug\myproject.pdb
+D:\l3 t1\C# projects\myproject\myproject\bin\Debug\myproject.exe.config
+D:\l3 t1\C# projects\myproject\myproject\bin\Debug\myproject.exe
+D:\l3 t1\C# projects\myproject\myproject\bin\Debug\myproject.pdb
+D:\l3 t1\C# projects\myproject\myproject\obj\Debug\myproject.csproj.AssemblyReference.cache
+D:\l3 t1\C# projects\myproject\myproject\obj\Debug\myproject.Form1.resources
+D:\l3 t1\C# projects\myproject\myproject\obj\Debug\myproject.Properties.Resources.resources
+D:\l3 t1\C# projects\myproject\myproject\obj\Debug\myproject.csproj.GenerateResource.cache
+D:\l3 t1\C# projects\myproject\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+D:\l3 t1\C# projects\myproject\myproject\obj\Debug\myproject.exe
+D:\l3 t1\C# projects\myproject\myproject\obj\Debug\myproject.pdb
+C:\Users\admin\Desktop\myproject\myproject\bin\Debug\myproject.exe.config
+C:\Users\admin\Desktop\myproject\myproject\bin\Debug\myproject.exe
+C:\Users\admin\Desktop\myproject\myproject\bin\Debug\myproject.pdb
+C:\Users\admin\Desktop\myproject\myproject\obj\Debug\myproject.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\myproject\myproject\obj\Debug\myproject.Form1.resources
+C:\Users\admin\Desktop\myproject\myproject\obj\Debug\myproject.Properties.Resources.resources
+C:\Users\admin\Desktop\myproject\myproject\obj\Debug\myproject.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\myproject\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\myproject\myproject\obj\Debug\myproject.exe
+C:\Users\admin\Desktop\myproject\myproject\obj\Debug\myproject.pdb
